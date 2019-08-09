@@ -1171,7 +1171,7 @@ html {
 }
 
 .home-services-list-service ~ .home-services-list-service {
-	margin-top: 50px;
+	margin-top: 0px;
 }
 
 .home-services-list-service-icon {
@@ -1647,7 +1647,7 @@ html {
 
 	.home-services-list-service {
 		width: 45%;
-		margin-top: 50px;
+		margin-top: 0px;
 	}
 
 	.home-services-list-service-description {
